@@ -96,4 +96,4 @@ jupyter notebook MBA_Admission_Status.ipynb
 
 ## 📬 Contact
 
-For feedback or collaboration, feel free to reach out via [GitHub Issues](https://github.com/thatboypage/ML-MBA-Admission-Prediction/issues).
+For feedback or collaboration, feel free to reach out via [GitHub Issues](https://github.com/thatboypage/ML--MBA-Admission-Prediction/issues).
